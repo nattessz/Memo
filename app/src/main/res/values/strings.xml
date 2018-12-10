@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jegyzet</string>
+    <string name="action_settings">Beállitások</string>
+    <string name="activity_title_home">Jegyzet</string>
+    <string name="msg_no_notes">Nem található jegyzet!</string>
+    <string name="lbl_new_note_title">Új jegyzet</string>
+    <string name="lbl_edit_note_title">Jegyzet írása</string>
+    <string name="hint_enter_note">Ide írd a feljegyzésedet!</string>
+</resources>
